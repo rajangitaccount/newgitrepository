@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/facebook checkpoints/Page_Facebook  log in or sign up/button_Log in",
+      "brokenLocator": "//button[@id\u003d\u0027u_0_5_Pm\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240205_164013/Visual testing checkpoint test suite/Checkpoint test suite 1/20240205_164013/Object Repository/facebook checkpoints/Page_Facebook  log in or sign up/button_Log in_position.png"
+    }
+  ]
+}

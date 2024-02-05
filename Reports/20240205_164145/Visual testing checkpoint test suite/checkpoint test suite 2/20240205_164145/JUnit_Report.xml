@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="checkpoint test suite 2" time="62.076" tests="6" failures="0" errors="0">
+   <testsuite name="checkpoint test suite 2" tests="6" failures="0" errors="0" time="62.076" skipped="0" timestamp="05-02-2024T16:41:48" hostname="Guest User - DESKTOP-PD2US2I" id="Test Suites/Visual testing checkpoint test suite/checkpoint test suite 2">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Guest User\\git\\newgitrepositor\\Reports\\20240205_164145\\Visual testing checkpoint test suite\\checkpoint test suite 2\\20240205_164145"/>
+         <property name="logFiles" value="C:\\Users\\Guest User\\git\\newgitrepositor\\Reports\\20240205_164145\\Visual testing checkpoint test suite\\checkpoint test suite 2\\20240205_164145\\execution0.log"/>
+         <property name="attachments" value="keyes\keyes-ORANGE HRM MYINFO.png, keyes\keyes-ORANGE HRM PERFOMANCE.png, keyes\keyes-OHRM PIM.png, keyes\keyes-ORANGE HRM RECRUITMENT.png, keyes\keyes-OHRM TIME.png, keyes\keyes-Admin page Orangehrm.png"/>
+         <property name="hostName" value="Guest User - DESKTOP-PD2US2I"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Chrome 121.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.5"/>
+         <property name="sessionId" value="b30cafe9a092484fedf9992780a5af3e"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Visual Checkpoint Testcases/ORANGE HRM MYINFO" time="12.224" classname="Test Cases/Visual Checkpoint Testcases/ORANGE HRM MYINFO" status="PASSED">
+         <system-out><![CDATA[05-02-2024T16:41:48 - [TEST_CASE][PASSED] - Test Cases/Visual Checkpoint Testcases/ORANGE HRM MYINFO: Test Cases/Visual Checkpoint Testcases/ORANGE HRM MYINFO
+
+05-02-2024T16:41:48 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+05-02-2024T16:41:48 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+05-02-2024T16:41:48 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+05-02-2024T16:41:49 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+05-02-2024T16:41:49 - [TEST_STEP][PASSED] - navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"): Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+05-02-2024T16:41:53 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+05-02-2024T16:41:53 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/OR - ORANGE HRM MYINFO/Page_OrangeHRM/input_username"), "Admin"): Text 'Admin' is set on object 'Object Repository/OR - ORANGE HRM MYINFO/Page_OrangeHRM/input_username'
+
+05-02-2024T16:41:54 - [MESSAGE][PASSED] - Text 'Admin' is set on object 'Object Repository/OR - ORANGE HRM MYINFO/Page_OrangeHRM/input_username'
+
+05-02-2024T16:41:54 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/OR - ORANGE HRM MYINFO/Page_OrangeHRM/input_password"), "hUKwJTbofgPU9eVlw/CnDQ=="): Text ****** has been set on object 'Object Repository/OR - ORANGE HRM MYINFO/Page_OrangeHRM/input_password'
+
+05-02-2024T16:41:54 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/OR - ORANGE HRM MYINFO/Page_OrangeHRM/input_password'
+
+05-02-2024T16:41:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/OR - ORANGE HRM MYINFO/Page_OrangeHRM/button_Login")): Object: 'Object Repository/OR - ORANGE HRM MYINFO/Page_OrangeHRM/button_Login' is clicked on
+
+05-02-2024T16:41:55 - [MESSAGE][PASSED] - Object: 'Object Repository/OR - ORANGE HRM MYINFO/Page_OrangeHRM/button_Login' is clicked on
+
+05-02-2024T16:41:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/OR - ORANGE HRM MYINFO/Page_OrangeHRM/span_My Info")): Object: 'Object Repository/OR - ORANGE HRM MYINFO/Page_OrangeHRM/span_My Info' is clicked on
+
+05-02-2024T16:41:59 - [MESSAGE][PASSED] - Object: 'Object Repository/OR - ORANGE HRM MYINFO/Page_OrangeHRM/span_My Info' is clicked on
+
+05-02-2024T16:41:59 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("ORANGE HRM MYINFO"): Taking screenshot successfully
+
+05-02-2024T16:42:00 - [MESSAGE][INFO] - 0 hidden object(s)
+
+05-02-2024T16:42:00 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-ORANGE HRM MYINFO.png]]
+
+05-02-2024T16:42:00 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+05-02-2024T16:42:00 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Visual Checkpoint Testcases/ORANGE HRM PERFOMANCE" time="11.23" classname="Test Cases/Visual Checkpoint Testcases/ORANGE HRM PERFOMANCE" status="PASSED">
+         <system-out><![CDATA[05-02-2024T16:42:00 - [TEST_CASE][PASSED] - Test Cases/Visual Checkpoint Testcases/ORANGE HRM PERFOMANCE: Test Cases/Visual Checkpoint Testcases/ORANGE HRM PERFOMANCE
+
+05-02-2024T16:42:00 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+05-02-2024T16:42:00 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+05-02-2024T16:42:00 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+05-02-2024T16:42:01 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+05-02-2024T16:42:01 - [TEST_STEP][PASSED] - navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"): Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+05-02-2024T16:42:04 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+05-02-2024T16:42:04 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/OR - ORANGE HRM PERFOMANCE/Page_OrangeHRM/input_username"), "Admin"): Text 'Admin' is set on object 'Object Repository/OR - ORANGE HRM PERFOMANCE/Page_OrangeHRM/input_username'
+
+05-02-2024T16:42:05 - [MESSAGE][PASSED] - Text 'Admin' is set on object 'Object Repository/OR - ORANGE HRM PERFOMANCE/Page_OrangeHRM/input_username'
+
+05-02-2024T16:42:05 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/OR - ORANGE HRM PERFOMANCE/Page_OrangeHRM/input_password"), "hUKwJTbofgPU9eVlw/CnDQ=="): Text ****** has been set on object 'Object Repository/OR - ORANGE HRM PERFOMANCE/Page_OrangeHRM/input_password'
+
+05-02-2024T16:42:05 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/OR - ORANGE HRM PERFOMANCE/Page_OrangeHRM/input_password'
+
+05-02-2024T16:42:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/OR - ORANGE HRM PERFOMANCE/Page_OrangeHRM/button_Login")): Object: 'Object Repository/OR - ORANGE HRM PERFOMANCE/Page_OrangeHRM/button_Login' is clicked on
+
+05-02-2024T16:42:06 - [MESSAGE][PASSED] - Object: 'Object Repository/OR - ORANGE HRM PERFOMANCE/Page_OrangeHRM/button_Login' is clicked on
+
+05-02-2024T16:42:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/OR - ORANGE HRM PERFOMANCE/Page_OrangeHRM/span_Performance")): Object: 'Object Repository/OR - ORANGE HRM PERFOMANCE/Page_OrangeHRM/span_Performance' is clicked on
+
+05-02-2024T16:42:11 - [MESSAGE][PASSED] - Object: 'Object Repository/OR - ORANGE HRM PERFOMANCE/Page_OrangeHRM/span_Performance' is clicked on
+
+05-02-2024T16:42:11 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("ORANGE HRM PERFOMANCE"): Taking screenshot successfully
+
+05-02-2024T16:42:11 - [MESSAGE][INFO] - 0 hidden object(s)
+
+05-02-2024T16:42:11 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-ORANGE HRM PERFOMANCE.png]]
+
+05-02-2024T16:42:11 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+05-02-2024T16:42:11 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Visual Checkpoint Testcases/ORANGE HRM PIM" time="9.917" classname="Test Cases/Visual Checkpoint Testcases/ORANGE HRM PIM" status="PASSED">
+         <system-out><![CDATA[05-02-2024T16:42:11 - [TEST_CASE][PASSED] - Test Cases/Visual Checkpoint Testcases/ORANGE HRM PIM: Test Cases/Visual Checkpoint Testcases/ORANGE HRM PIM
+
+05-02-2024T16:42:11 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+05-02-2024T16:42:11 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+05-02-2024T16:42:11 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+05-02-2024T16:42:12 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+05-02-2024T16:42:12 - [TEST_STEP][PASSED] - navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"): Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+05-02-2024T16:42:15 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+05-02-2024T16:42:15 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/OR OHRM PIM/Page_OrangeHRM/input_username"), "Admin"): Text 'Admin' is set on object 'Object Repository/OR OHRM PIM/Page_OrangeHRM/input_username'
+
+05-02-2024T16:42:16 - [MESSAGE][PASSED] - Text 'Admin' is set on object 'Object Repository/OR OHRM PIM/Page_OrangeHRM/input_username'
+
+05-02-2024T16:42:16 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/OR OHRM PIM/Page_OrangeHRM/input_password"), "hUKwJTbofgPU9eVlw/CnDQ=="): Text ****** has been set on object 'Object Repository/OR OHRM PIM/Page_OrangeHRM/input_password'
+
+05-02-2024T16:42:16 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/OR OHRM PIM/Page_OrangeHRM/input_password'
+
+05-02-2024T16:42:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/OR OHRM PIM/Page_OrangeHRM/button_Login")): Object: 'Object Repository/OR OHRM PIM/Page_OrangeHRM/button_Login' is clicked on
+
+05-02-2024T16:42:17 - [MESSAGE][PASSED] - Object: 'Object Repository/OR OHRM PIM/Page_OrangeHRM/button_Login' is clicked on
+
+05-02-2024T16:42:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/OR OHRM PIM/Page_OrangeHRM/span_PIM")): Object: 'Object Repository/OR OHRM PIM/Page_OrangeHRM/span_PIM' is clicked on
+
+05-02-2024T16:42:20 - [MESSAGE][PASSED] - Object: 'Object Repository/OR OHRM PIM/Page_OrangeHRM/span_PIM' is clicked on
+
+05-02-2024T16:42:20 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("OHRM PIM"): Taking screenshot successfully
+
+05-02-2024T16:42:21 - [MESSAGE][INFO] - 0 hidden object(s)
+
+05-02-2024T16:42:21 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-OHRM PIM.png]]
+
+05-02-2024T16:42:21 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+05-02-2024T16:42:21 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Visual Checkpoint Testcases/ORANGE HRM SCHEDULE" time="10.586" classname="Test Cases/Visual Checkpoint Testcases/ORANGE HRM SCHEDULE" status="PASSED">
+         <system-out><![CDATA[05-02-2024T16:42:21 - [TEST_CASE][PASSED] - Test Cases/Visual Checkpoint Testcases/ORANGE HRM SCHEDULE: Test Cases/Visual Checkpoint Testcases/ORANGE HRM SCHEDULE
+
+05-02-2024T16:42:21 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+05-02-2024T16:42:21 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+05-02-2024T16:42:21 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+05-02-2024T16:42:22 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+05-02-2024T16:42:22 - [TEST_STEP][PASSED] - navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"): Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+05-02-2024T16:42:25 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+05-02-2024T16:42:25 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/OR - OHRM RECRUITMENT/Page_OrangeHRM/input_username"), "Admin"): Text 'Admin' is set on object 'Object Repository/OR - OHRM RECRUITMENT/Page_OrangeHRM/input_username'
+
+05-02-2024T16:42:26 - [MESSAGE][PASSED] - Text 'Admin' is set on object 'Object Repository/OR - OHRM RECRUITMENT/Page_OrangeHRM/input_username'
+
+05-02-2024T16:42:26 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/OR - OHRM RECRUITMENT/Page_OrangeHRM/input_password"), "hUKwJTbofgPU9eVlw/CnDQ=="): Text ****** has been set on object 'Object Repository/OR - OHRM RECRUITMENT/Page_OrangeHRM/input_password'
+
+05-02-2024T16:42:26 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/OR - OHRM RECRUITMENT/Page_OrangeHRM/input_password'
+
+05-02-2024T16:42:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/OR - OHRM RECRUITMENT/Page_OrangeHRM/button_Login")): Object: 'Object Repository/OR - OHRM RECRUITMENT/Page_OrangeHRM/button_Login' is clicked on
+
+05-02-2024T16:42:27 - [MESSAGE][PASSED] - Object: 'Object Repository/OR - OHRM RECRUITMENT/Page_OrangeHRM/button_Login' is clicked on
+
+05-02-2024T16:42:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/OR - OHRM RECRUITMENT/Page_OrangeHRM/span_Recruitment")): Object: 'Object Repository/OR - OHRM RECRUITMENT/Page_OrangeHRM/span_Recruitment' is clicked on
+
+05-02-2024T16:42:31 - [MESSAGE][PASSED] - Object: 'Object Repository/OR - OHRM RECRUITMENT/Page_OrangeHRM/span_Recruitment' is clicked on
+
+05-02-2024T16:42:31 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("ORANGE HRM RECRUITMENT"): Taking screenshot successfully
+
+05-02-2024T16:42:31 - [MESSAGE][INFO] - 0 hidden object(s)
+
+05-02-2024T16:42:31 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-ORANGE HRM RECRUITMENT.png]]
+
+05-02-2024T16:42:31 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+05-02-2024T16:42:32 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Visual Checkpoint Testcases/ORANGE HRM TIME" time="9.878" classname="Test Cases/Visual Checkpoint Testcases/ORANGE HRM TIME" status="PASSED">
+         <system-out><![CDATA[05-02-2024T16:42:32 - [TEST_CASE][PASSED] - Test Cases/Visual Checkpoint Testcases/ORANGE HRM TIME: Test Cases/Visual Checkpoint Testcases/ORANGE HRM TIME
+
+05-02-2024T16:42:32 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+05-02-2024T16:42:32 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+05-02-2024T16:42:32 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+05-02-2024T16:42:32 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+05-02-2024T16:42:32 - [TEST_STEP][PASSED] - navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"): Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+05-02-2024T16:42:35 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+05-02-2024T16:42:35 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/OR - OHRM TIME/Page_OrangeHRM/input_username"), "Admin"): Text 'Admin' is set on object 'Object Repository/OR - OHRM TIME/Page_OrangeHRM/input_username'
+
+05-02-2024T16:42:36 - [MESSAGE][PASSED] - Text 'Admin' is set on object 'Object Repository/OR - OHRM TIME/Page_OrangeHRM/input_username'
+
+05-02-2024T16:42:36 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/OR - OHRM TIME/Page_OrangeHRM/input_password"), "hUKwJTbofgPU9eVlw/CnDQ=="): Text ****** has been set on object 'Object Repository/OR - OHRM TIME/Page_OrangeHRM/input_password'
+
+05-02-2024T16:42:37 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/OR - OHRM TIME/Page_OrangeHRM/input_password'
+
+05-02-2024T16:42:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/OR - OHRM TIME/Page_OrangeHRM/button_Login")): Object: 'Object Repository/OR - OHRM TIME/Page_OrangeHRM/button_Login' is clicked on
+
+05-02-2024T16:42:37 - [MESSAGE][PASSED] - Object: 'Object Repository/OR - OHRM TIME/Page_OrangeHRM/button_Login' is clicked on
+
+05-02-2024T16:42:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/OR - OHRM TIME/Page_OrangeHRM/span_Time")): Object: 'Object Repository/OR - OHRM TIME/Page_OrangeHRM/span_Time' is clicked on
+
+05-02-2024T16:42:41 - [MESSAGE][PASSED] - Object: 'Object Repository/OR - OHRM TIME/Page_OrangeHRM/span_Time' is clicked on
+
+05-02-2024T16:42:41 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("OHRM TIME"): Taking screenshot successfully
+
+05-02-2024T16:42:41 - [MESSAGE][INFO] - 0 hidden object(s)
+
+05-02-2024T16:42:41 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-OHRM TIME.png]]
+
+05-02-2024T16:42:41 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+05-02-2024T16:42:42 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Visual Checkpoint Testcases/ORANGEHRM ADMIN PAGE" time="8.09" classname="Test Cases/Visual Checkpoint Testcases/ORANGEHRM ADMIN PAGE" status="PASSED">
+         <system-out><![CDATA[05-02-2024T16:42:42 - [TEST_CASE][PASSED] - Test Cases/Visual Checkpoint Testcases/ORANGEHRM ADMIN PAGE: Test Cases/Visual Checkpoint Testcases/ORANGEHRM ADMIN PAGE
+
+05-02-2024T16:42:42 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+05-02-2024T16:42:42 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+05-02-2024T16:42:42 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+05-02-2024T16:42:42 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+05-02-2024T16:42:42 - [TEST_STEP][PASSED] - navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"): Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+05-02-2024T16:42:45 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' successfully
+
+05-02-2024T16:42:45 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/checkpoints orange HRM/Page_OrangeHRM/input_username"), "Admin"): Text 'Admin' is set on object 'Object Repository/checkpoints orange HRM/Page_OrangeHRM/input_username'
+
+05-02-2024T16:42:46 - [MESSAGE][PASSED] - Text 'Admin' is set on object 'Object Repository/checkpoints orange HRM/Page_OrangeHRM/input_username'
+
+05-02-2024T16:42:46 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/checkpoints orange HRM/Page_OrangeHRM/input_password"), "hUKwJTbofgPU9eVlw/CnDQ=="): Text ****** has been set on object 'Object Repository/checkpoints orange HRM/Page_OrangeHRM/input_password'
+
+05-02-2024T16:42:47 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/checkpoints orange HRM/Page_OrangeHRM/input_password'
+
+05-02-2024T16:42:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/checkpoints orange HRM/Page_OrangeHRM/button_Login")): Object: 'Object Repository/checkpoints orange HRM/Page_OrangeHRM/button_Login' is clicked on
+
+05-02-2024T16:42:47 - [MESSAGE][PASSED] - Object: 'Object Repository/checkpoints orange HRM/Page_OrangeHRM/button_Login' is clicked on
+
+05-02-2024T16:42:47 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("Admin page Orangehrm"): Taking screenshot successfully
+
+05-02-2024T16:42:49 - [MESSAGE][INFO] - 0 hidden object(s)
+
+05-02-2024T16:42:49 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-Admin page Orangehrm.png]]
+
+05-02-2024T16:42:49 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+05-02-2024T16:42:50 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[05-02-2024T16:41:48 - [TEST_SUITE][PASSED] - checkpoint test suite 2: Test Cases/Visual Checkpoint Testcases/ORANGEHRM ADMIN PAGE]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
