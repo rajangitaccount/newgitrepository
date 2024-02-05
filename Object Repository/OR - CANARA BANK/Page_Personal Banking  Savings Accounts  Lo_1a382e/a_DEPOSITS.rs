@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_DEPOSITS</name>
+   <tag></tag>
+   <elementGuidId>b1111ca4-115b-4e8d-8df5-ddb02944b796</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'DEPOSITS')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.has-sub > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3fde1434-966b-4e25-8e23-28fb9dd42590</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DEPOSITS</value>
+      <webElementGuid>8c7eebbf-12d0-49ca-9589-3c7fe6de1a0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-black&quot;]/header[@class=&quot;site-header&quot;]/div[@class=&quot;header-bottom&quot;]/div[@class=&quot;site-nav&quot;]/ul[1]/li[@class=&quot;has-sub&quot;]/a[1]</value>
+      <webElementGuid>689003e7-d35b-4fda-b71d-b6780135a330</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'DEPOSITS')]</value>
+      <webElementGuid>e67553c9-ccf1-4010-9448-8cbe76843fff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/a</value>
+      <webElementGuid>76965e07-6bbf-4db5-9989-caba8455f5e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'DEPOSITS' or . = 'DEPOSITS')]</value>
+      <webElementGuid>6af586c8-7550-47b8-8a80-223c7bca15ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

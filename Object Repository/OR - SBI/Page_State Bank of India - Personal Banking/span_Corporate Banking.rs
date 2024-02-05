@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Corporate Banking</name>
+   <tag></tag>
+   <elementGuidId>ab65752b-a893-44c2-9ec0-1838901eaf61</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headerRight']/div[2]/div/nav/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>nav.txtLinks > a.template04.txtLink > span.lang_html_8</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a8ccafbd-8b0e-4983-bb50-91e53889d0a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lang_html_8</value>
+      <webElementGuid>451033df-f93a-4c2e-baff-566951bce6de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Corporate Banking</value>
+      <webElementGuid>9859c20d-dead-4466-83eb-97cfabb3b14e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headerRight&quot;)/div[@class=&quot;headerLower&quot;]/div[@class=&quot;linksLeft&quot;]/nav[@class=&quot;txtLinks&quot;]/a[@class=&quot;template04 txtLink&quot;]/span[@class=&quot;lang_html_8&quot;]</value>
+      <webElementGuid>a7bbeaff-5c40-4012-8d55-bbfdd085056c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headerRight']/div[2]/div/nav/a/span[2]</value>
+      <webElementGuid>3b7be217-83fd-4920-95a3-4997d0e9a87c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/nav/a/span[2]</value>
+      <webElementGuid>d78bd6ae-c51f-4f62-a773-4a0cdb49c21d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Corporate Banking' or . = 'Corporate Banking')]</value>
+      <webElementGuid>9447c3c0-5a81-4b5e-916c-6697dc7c917d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

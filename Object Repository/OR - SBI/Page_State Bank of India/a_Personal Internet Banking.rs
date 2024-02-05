@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Personal Internet Banking</name>
+   <tag></tag>
+   <elementGuidId>8a9482ea-f8ef-4475-bbcd-cebd9eb58c28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='sm-17071298945004587-2']/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#sm-17071298945004587-2 > li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>88ad4d56-8d5d-4f12-9179-167afefcfb35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://retail.onlinesbi.sbi/npersonal/sbi_home.html</value>
+      <webElementGuid>66b4e8b7-fff1-4d6a-bda0-0d086bf6a9e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Personal Internet Banking</value>
+      <webElementGuid>3a4d98e7-3743-4860-b4f0-93fa8946bae0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sm-17071298945004587-2&quot;)/li[1]/a[1]</value>
+      <webElementGuid>d5546d81-8221-455a-993e-780f4fbef800</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='sm-17071298945004587-2']/li/a</value>
+      <webElementGuid>c3b222e7-a6a2-4834-b640-06b99a3adacc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Personal Internet Banking')]</value>
+      <webElementGuid>791576ec-a449-4755-a2b5-018b4ce41aba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://retail.onlinesbi.sbi/npersonal/sbi_home.html')]</value>
+      <webElementGuid>dec91036-6d5c-4fe4-b880-5930e8f93a88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li/a</value>
+      <webElementGuid>bde4a46d-2acf-451a-90f2-3aee25119571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://retail.onlinesbi.sbi/npersonal/sbi_home.html' and (text() = 'Personal Internet Banking' or . = 'Personal Internet Banking')]</value>
+      <webElementGuid>490d4edd-89d1-401c-82f3-b2252bc62cdc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

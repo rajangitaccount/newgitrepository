@@ -19,16 +19,17 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.facebook.com/')
+WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
 
-WebUI.setText(findTestObject('Object Repository/facebook checkpoints/Page_Facebook  log in or sign up/input_email'), 'rajan.gwork@gmail.com')
+WebUI.setText(findTestObject('Object Repository/OR - ORANGE HRM DIRECTORY/Page_OrangeHRM/input_username'), 'Admin')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/facebook checkpoints/Page_Facebook  log in or sign up/input_pass'), 
-    'n5HltN4j2d/i3TDt87gMXg==')
+WebUI.setEncryptedText(findTestObject('Object Repository/OR - ORANGE HRM DIRECTORY/Page_OrangeHRM/input_password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
 
-WebUI.click(findTestObject('Object Repository/facebook checkpoints/Page_Facebook  log in or sign up/button_Log in'))
+WebUI.click(findTestObject('Object Repository/OR - ORANGE HRM DIRECTORY/Page_OrangeHRM/button_Login'))
 
-WebUI.takeScreenshotAsCheckpoint('facebook login error message')
+WebUI.click(findTestObject('Object Repository/OR - ORANGE HRM DIRECTORY/Page_OrangeHRM/span_Directory'))
+
+WebUI.takeScreenshotAsCheckpoint('ORANGE HRM DIRECTORY')
 
 WebUI.closeBrowser()
 
